@@ -28,7 +28,7 @@ const siteProps = {
   title: "Cloud & Security Engineer",
   email: "victorndiritu9@gmail.com",
   gitHub: "Vicky_taar",
-  instagram: "VickyTaar",
+  instagram: "Vicky_taar",
   linkedIn: "victor-ndiritu-09109a220",
   medium: "",
   twitter: "VickyTaar",
