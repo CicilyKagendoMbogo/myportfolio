@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "Vicky_taar",
   linkedIn: "victor-ndiritu-09109a220",
   medium: "",
-  twitter: "VickyTaar",
+  twitter: "Vicky_taar",
   youTube: "Code",
 };
 
