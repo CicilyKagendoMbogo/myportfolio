@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an Information Security and Forensics student studying at KCA University. I like practicing with Cloud environments while gauging their security";
+  "I'm an Information Security and Forensics student studying at KCA University. I like practicing with Cloud environments while gauging their security.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I like creating solutions for various problems to increase productivity and smooth running of operations drive innovation. By leveraging my Cloud and Security knowledge , I continually look for new and better ways to make tech accessible by all.";
+  "I like creating solutions for various problems to increase productivity and smooth running of operations while driving innovation. By leveraging my Cloud and Security knowledge , I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
