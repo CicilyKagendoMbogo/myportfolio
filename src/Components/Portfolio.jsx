@@ -33,25 +33,25 @@ const projectList = [
   {
     title: "All things cloud computing",
     description:
-      "A collection of all cloud computing certications",
+      "A collection of all cloud computing certications and the correct roadmap to follow for each",
     url: "https://victorndiritu.tech/",
   },
   {
     title: "LinkedIn articles about Cloud computing",
     description:
-      "These are some basic research articles I did on the comparison of different cloud providers",
+      "These are some basic research articles I did on the comparison of different cloud providers(Azure, GCP , AWS)",
     url: "https://www.linkedin.com/in/victor-ndiritu-09109a220/",
   },
   {
     title: "My CV Website ",
     description:
-      "Created by Brittany Chiang , and deployed to Azure. Includes my experience and design abilities.",
+      "Designed  by Brittany Chiang ,modded  and deployed to Azure by myself. Includes my experience and design abilities.",
     url: "https://victorndiritu.tech/",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "This is my github profile containing all the projects I have done",
+      "This is my github profile containing all the projects I have done since joining",
     url: "https://github.com/VickyTaar",
   },
 ];
