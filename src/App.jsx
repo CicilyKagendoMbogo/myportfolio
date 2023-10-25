@@ -27,7 +27,7 @@ const siteProps = {
   name: "Victor Ndiritu",
   title: "Cloud & Security Engineer",
   email: "victorndiritu9@gmail.com",
-  gitHub: "Vicky_taar",
+  gitHub: "VickyTaar",
   instagram: "Vicky_taar",
   linkedIn: "victor-ndiritu-09109a220",
   medium: "",
