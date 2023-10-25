@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "All things cloud computing",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A collection of all cloud computing certications",
+    url: "https://victorndiritu.tech/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "LinkedIn articles about Cloud computing",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "These are some basic research articles I did on the comparison of different cloud providers",
+    url: "https://www.linkedin.com/in/victor-ndiritu-09109a220/",
   },
   {
-    title: "My Resume Site",
+    title: "My CV Website ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created by Brittany Chiang , and deployed to Azure. Includes my experience and design abilities.",
+    url: "https://victorndiritu.tech/",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is my github profile containing all the projects I have done",
+    url: "https://github.com/VickyTaar",
   },
 ];
 
