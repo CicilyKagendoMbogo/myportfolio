@@ -49,7 +49,7 @@ const projectList = [
     url: "https://victorndiritu.tech/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Codespaces and projects",
     description:
       "This is my github profile containing all the projects I have done since joining",
     url: "https://github.com/VickyTaar",
