@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an Information Security and Forensics student studying at KCA University. I like practicing with Cloud environments while gauging their security.";
+  "We are Elysian, dedicated to empowering women's health by providing expert insights and effective solutions for UTI, yeast, and bacterial infections.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Cloud Developer",
-  "Security Engineer",
-  "Cloud Security Engineer",
-  "Pentester",
-  "CTF Player",
-  "DevSecOps Professional",
+  "UTIs",
+  "Yeast Infection",
+  "Bacterial Infection",
+  "Support",
+  "Counselling",
+  "Professional help",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I like creating solutions for various problems to increase productivity and smooth running of operations while driving innovation. By leveraging my Cloud and Security knowledge , I continually look for new and better ways to make tech accessible by all.";
+  "We are Elysian, dedicated to prioritizing women's well-being. With expert insights and tailored solutions, we empower women to confidently address UTI, yeast, and bacterial infections. At Elysian, we're your trusted companion on the journey to holistic well-being.";
 
 const About = () => {
   return (
