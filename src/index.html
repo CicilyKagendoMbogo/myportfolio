@@ -6,7 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Educator JS Codespaces Template</title>
     <link rel="stylesheet" href="styles.css" />
-    
+    <!-- OpenChat Widget -->
+    <script src="https://cloud.openchat.so/chat.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var chatConfig = {
+                token: "GvE7i8udpzKOaBFz59wt",
+            };
+            initializeChatWidget(chatConfig);
+        });
+    </script>
   </head>
   <body>
     <noscript>You need to enable Javascript to run this application.</noscript>
