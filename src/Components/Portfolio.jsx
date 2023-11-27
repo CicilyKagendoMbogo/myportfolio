@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "All things cloud computing",
+    title: "Managing Yeast Infection",
     description:
-      "A collection of all cloud computing certications and the correct roadmap to follow for each",
-    url: "https://victorndiritu.tech/",
+      "A collection of details about Yeast Infection",
+    url: "https://hospitals.aku.edu/nairobi/AboutUs/News/Pages/Managing-yeast-infection.aspx",
   },
   {
-    title: "LinkedIn articles about Cloud computing",
+    title: "Online articles about sexual health",
     description:
-      "These are some basic research articles I did on the comparison of different cloud providers(Azure, GCP , AWS)",
-    url: "https://www.linkedin.com/in/victor-ndiritu-09109a220/",
+      "These are some basic research articles I did on the comparison of different sexual infections.",
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10218719/",
   },
   {
-    title: "My CV Website ",
+    title: "Field study blogs ",
     description:
-      "Designed  by Brittany Chiang ,modded  and deployed to Azure by myself. Includes my experience and design abilities.",
-    url: "https://victorndiritu.tech/",
+      "Studied  by Medrix ,modded  and deployed online. Includes  experiences and  abilities.",
+    url: "https://www.medrxiv.org/content/10.1101/2022.10.25.22281521v1.full",
   },
   {
-    title: "GitHub Codespaces and projects",
+    title: "Script.org",
     description:
-      "This is my github profile containing all the projects I have done since joining",
-    url: "https://github.com/VickyTaar",
+      "This is a learning space to share experiences",
+    url: "https://www.scirp.org/journal/paperinformation.aspx?paperid=111014#:~:text=Results%3A%20The%20overall%20prevalence%20rate,than%20other%20sets%20of%20participants",
   },
 ];
 
