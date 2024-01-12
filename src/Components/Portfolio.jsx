@@ -30,7 +30,13 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
+{
+    title: "Managing Yeast Infection",
+    description:
+      "A collection of details about Yeast Infection",
+    url: "https://hospitals.aku.edu/nairobi/AboutUs/News/Pages/Managing-yeast-infection.aspx",
+  }, 
+ {
     title: "Managing Yeast Infection",
     description:
       "A collection of details about Yeast Infection",
