@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "We are Elysian, dedicated to empowering women's health by providing expert insights and effective solutions for UTI, yeast, and bacterial infections.";
+  "Welcome to Elysian, your trusted partner in redefining healthcare accessibility and empowering individuals to take control of their medical journey.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "UTIs",
-  "Yeast Infection",
-  "Bacterial Infection",
-  "Support",
-  "Counselling",
-  "Professional help",
+  "Empowering",
+  "Secure",
+  "Seamless",
+  "Innovative",
+  "Personalized",
+  "Trusted",
 ];
 
 /**
