@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "We are Elysian, dedicated to prioritizing women's well-being. With expert insights and tailored solutions, we empower women to confidently address UTI, yeast, and bacterial infections. At Elysian, we're your trusted companion on the journey to holistic well-being.";
+  "At Elysian, we envision a future where every individual has seamless and secure access to their health records, enabling them to make informed decisions about their well-being.";
 
 const About = () => {
   return (
