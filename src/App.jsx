@@ -24,10 +24,10 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "ELYSIAN BY CICILY",
-  title: "Empowering Women's Health Against Infections",
+  name: "ELYSIAN ",
+  title: "Elysian Health: Redefining Your Wellness Narrative",
   email: "victorndiritu9@gmail.com",
-  gitHub: "CicilyKagendoMbogo",
+  gitHub: "VickyTaar",
   instagram: "Vicky_taar",
   linkedIn: "victor-ndiritu-09109a220",
   medium: "",
